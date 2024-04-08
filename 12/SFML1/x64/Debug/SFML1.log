@@ -1,0 +1,47 @@
+﻿Сборка начата 27.12.2023 21:52:30.
+Уровень детализации журнала: Normal.     1>Проект "C:\лабы\Наркевич\12\SFML1\SFML1.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "x64\Debug\SFML1.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+         Обращение к "x64\Debug\SFML1.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\bin\HostX64\x64\CL.exe /c /I"C:\VS\SFML-2.6.1\include" /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt FileName.cpp
+         FileName.cpp
+     1>C:\лабы\Наркевич\12\SFML1\FileName.cpp(74,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+     1>C:\лабы\Наркевич\12\SFML1\FileName.cpp(93,32): warning C4305: аргумент: усечение из "double" в "float"
+     1>C:\лабы\Наркевич\12\SFML1\FileName.cpp(93,27): warning C4305: аргумент: усечение из "double" в "float"
+     1>C:\лабы\Наркевич\12\SFML1\FileName.cpp(99,25): warning C4305: инициализация: усечение из "double" в "float"
+     1>C:\лабы\Наркевич\12\SFML1\FileName.cpp(135,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>C:\лабы\Наркевич\12\SFML1\FileName.cpp(135,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>C:\лабы\Наркевич\12\SFML1\FileName.cpp(140,46): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>C:\лабы\Наркевич\12\SFML1\FileName.cpp(140,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>C:\лабы\Наркевич\12\SFML1\FileName.cpp(148,48): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>C:\лабы\Наркевич\12\SFML1\FileName.cpp(148,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>C:\лабы\Наркевич\12\SFML1\FileName.cpp(153,45): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\bin\HostX64\x64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\лабы\Наркевич\12\SFML1\x64\Debug\SFML1.exe" /INCREMENTAL /ILK:"x64\Debug\SFML1.ilk" /NOLOGO /LIBPATH:"C:\VS\SFML-2.6.1\lib" "sfml-graphics-d.lib" "sfml-window-d.lib" "sfml-audio-d.lib" "sfml-system-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\лабы\Наркевич\12\SFML1\x64\Debug\SFML1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /ENTRY:"mainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\лабы\Наркевич\12\SFML1\x64\Debug\SFML1.lib" /MACHINE:X64 x64\Debug\FileName.obj
+         SFML1.vcxproj -> C:\лабы\Наркевич\12\SFML1\x64\Debug\SFML1.exe
+       FinalizeBuildStatus:
+         Файл "x64\Debug\SFML1.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "x64\Debug\SFML1.tlog\SFML1.lastbuildstate".
+     1>Сборка проекта "C:\лабы\Наркевич\12\SFML1\SFML1.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "C:\лабы\Наркевич\12\SFML1\SFML1.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         C:\лабы\Наркевич\12\SFML1\FileName.cpp(74,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+         C:\лабы\Наркевич\12\SFML1\FileName.cpp(93,32): warning C4305: аргумент: усечение из "double" в "float"
+         C:\лабы\Наркевич\12\SFML1\FileName.cpp(93,27): warning C4305: аргумент: усечение из "double" в "float"
+         C:\лабы\Наркевич\12\SFML1\FileName.cpp(99,25): warning C4305: инициализация: усечение из "double" в "float"
+         C:\лабы\Наркевич\12\SFML1\FileName.cpp(135,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+         C:\лабы\Наркевич\12\SFML1\FileName.cpp(135,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+         C:\лабы\Наркевич\12\SFML1\FileName.cpp(140,46): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+         C:\лабы\Наркевич\12\SFML1\FileName.cpp(140,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+         C:\лабы\Наркевич\12\SFML1\FileName.cpp(148,48): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+         C:\лабы\Наркевич\12\SFML1\FileName.cpp(148,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+         C:\лабы\Наркевич\12\SFML1\FileName.cpp(153,45): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+
+    Предупреждений: 11
+    Ошибок: 0
+
+Прошло времени 00:00:01.01

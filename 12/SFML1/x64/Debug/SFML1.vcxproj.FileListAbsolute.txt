@@ -1,0 +1,3 @@
+E:\vs\SFML1\x64\Debug\SFML1.exe
+C:\Users\Sony\Desktop\SFML1\x64\Debug\SFML1.exe
+C:\лабы\Наркевич\12\SFML1\x64\Debug\SFML1.exe

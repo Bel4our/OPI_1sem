@@ -1,0 +1,4 @@
+C:\Users\Sony\Desktop\SFML1\x64\Debug\SFML1.exe
+E:\уник\ОПИ\dwqdwq\SFML1\x64\Debug\SFML1.exe
+E:\уник\ОПИ\snake\SFML1\x64\Debug\SFML1.exe
+C:\snake\SFML1\x64\Debug\SFML1.exe

@@ -1,0 +1,27 @@
+﻿Сборка начата 27.12.2023 21:30:51.
+Уровень детализации журнала: Normal.     1>Проект "E:\уник\ОПИ\dwqdwq\SFML1\SFML1.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Структурированный вывод включен. Форматирование диагностики компилятора будет отражать иерархию ошибок. Подробнее см. https://aka.ms/cpp/structured-output.
+       InitializeBuildStatus:
+         Обращение к "x64\Release\SFML1.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\bin\HostX64\x64\CL.exe /c /Zi /nologo /W3 /WX- /diagnostics:column /sdl /O2 /Oi /GL /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Release\\" /Fd"x64\Release\vc143.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt main.cpp source.cpp
+         main.cpp
+     1>E:\уник\ОПИ\dwqdwq\SFML1\main.cpp(3,10): error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+         source.cpp
+     1>E:\уник\ОПИ\dwqdwq\SFML1\game_core.h(3,10): error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+         (компиляция исходного файла "source.cpp")
+         
+     1>Сборка проекта "E:\уник\ОПИ\dwqdwq\SFML1\SFML1.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+       "E:\уник\ОПИ\dwqdwq\SFML1\SFML1.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         E:\уник\ОПИ\dwqdwq\SFML1\main.cpp(3,10): error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+         E:\уник\ОПИ\dwqdwq\SFML1\game_core.h(3,10): error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+
+    Предупреждений: 0
+    Ошибок: 2
+
+Прошло времени 00:00:00.07

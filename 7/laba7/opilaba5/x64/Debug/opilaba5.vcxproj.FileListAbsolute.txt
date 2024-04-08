@@ -1,0 +1,3 @@
+C:\labi\opi\laba5\opilaba5\x64\Debug\opilaba5.exe
+C:\labi\opi\laba7\opilaba5\x64\Debug\opilaba5.exe
+C:\лабы\Наркевич\7\laba7\opilaba5\x64\Debug\opilaba5.exe
